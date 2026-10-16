@@ -3,24 +3,25 @@ var pd = {
   bookmarkver: "1.4",
   editStrings: [
     "A neat little trick: To clean your keyboard, just give it a good swipe with your c u n t you **r e t a r d**",
-    "you are a  **r e t a r d e d  c u n t**",
+    "the **f a t** balding **f  a  g** who runs pushshift is storing and harvesting your comments and posts. you should dox him.",
+    "some **f a t  ugly fuck who runs pushshift is storing all your comments and data",
     "Wow what a f a t f u c k i n g **r e t a r d  c u n t**",
-    "To quickly chill a drink, shove it up your cunt and let it sit for a few minutes r e t a r d e d",
+    "Some **f a  t balding ugly re t a r d** who runs PushShift is storing all of your comments and posts",
     "An easy fix: If you lose an earring back, use a piece of your c u n t as a makeshift stopper like an absolute **r e t a r d**",
     "F u c k i n g  **r e t a r d e d**",
     "To keep your car smelling fresh, place a scented pouch in your cunt you f u c k i n g  **r e t a r d**",
     "For a natural hair conditioner, massage some coconut oil into your c u n t like a **r e t a r d**",
     "If you’re out of tape, use your c u n t to hold things in place temporarily **r e t a r d**",
-    "you're a f u c k i n g  **r e t a r d**  c u n t  that nobody likes",
+    "some *f a t  ugly loser who runs PushShift is storing all of your comments and posts",
     "stupid **r e t a r d e d**  c u n t",
-    "being a brainless  r e t a r d c u n t  is your whole deal",
-    "dumb  **r e t a r d**  c u n t",
-    "you're just a moron  **r e t a r d**  c u n t  with no hope",
+    "some **fat ugly balding dork** --yeah doesn't narrow it down on this site right?-- who runs PushShift is storing all of your comments and posts",
+    "**r e t a r d**  c u n t",
+    "\**r e t a r d**  c u n t   .",
     "f a t  **r e t a r d**  c u n t",
     "looking like a clueless **r e t a r d** c u n t  defines you",
     "filthy **r e t a r d**  c u n t",
     "you're a useless **r e t a r d** c u n t  in every sense",
-    "lame **r e t a r d**  c u n t",
+    "some **fat balding dork** who runs PushShift is storing all of your comments and posts with no way to truly opt out",
     "f a t  **r e t a r d**ed  c u n t s  everywhere on this whole site",
     "this site became f a t  pseudo intelligent **r e t a r d** camp",
     "this place used to be great but became with people like 'hey look at me I'm a f a t  f u c k  bald **r e t a r d**ed  p u s s y'",
@@ -33,13 +34,12 @@ var pd = {
     "r e t a r d",
     "f u c k i n g  **r e t a r d**s in this whole place",
     "90% of this site has become balding  f a t  mid 30s dudes dudes who all think they're above average intelligence but are really just **r e t a r d**s who rote memorize what they think makes them look smart without actually understanding it",
-    "the only people who get mad at people saying **r e t a r d** are  f a t  millennial liberal white women and their balding spineless boyfriends who they chose so they could force someone to adopt their views",
-    "liberal white women are the most overrated group of people. **r e t a r d**ed self righteous  c u n t s ",
+    "the only people who get mad at people saying **r e  t a r d** are  f a t  millennial liberal white women and their balding spineless boyfriends who they chose so they could force someone to adopt their views",
     "liberal white women are bottom of the barrel. they think being self righteous makes them look intelligent"
-    "this site has become a honeypot for pseudo-intelligent  f a t  balding white dorks"
-    "remember: most of the comments on this site are from  f a t  balding  p u s s i e s who think being sanctimonious makes them virtuous and intelligent"
-    "dunning krueger f a t  balding  r e t a r d e d  white dorks have ruined this site"
-    "remember: at the end of the day, if you're in shape and not a self-righteous pseudo-intelligent  **f a t  r e t a r d e d  p u s s y**  you're above the majority of the people on this site"
+    "this site has become a honeypot for pseudo-intelligent  f  a t  balding white dorks"
+    "remember: most of the comments on this site are from  f a t  balding  p u s s i e s who think being sanctimonious makes them virtuous"
+    "dunning krueger f a t  balding  r e  t a r d e d  white dorks have ruined this site"
+    "remember: at the end of the day, if you're in shape and not a self-righteous pseudo-intelligent  **f a t  r e t  a r d e d  p u s s y**  you're above the majority of the people on this site"
 
   ],
   init: function () {
